@@ -8,7 +8,7 @@ I'm passionate about software development, open-source, and continuous learning.
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **ASP.NET Core projects**
-- 👯 I’m looking to collaborate on: **ASP.NET projects and enterprise applications**
+- 👯 I’m looking to collaborate on: **ASP.NET projects and Enterprise Applications**
 - 💬 Ask me about: **C#, ASP.NET Core, Entity Framework, and SQL Server**
 - 📫 How to reach me: [mizan.ice.pust@gmail.com ]
 
